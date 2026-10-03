@@ -7,4 +7,4 @@ Tala AlJumaie
 Noura Alkhamis
 
 Live Demo
-[Trace]((https://trace-venturex.netlify.app))
+[Trace](https://trace-venturex.netlify.app)
